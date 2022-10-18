@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocal.Intents", "Vocal.Intents\Vocal.Intents.csproj", "{38BB39A2-1755-4EDF-AE4C-DB4A5F21C6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocal.Main", "Vocal.Main\Vocal.Main.csproj", "{97ABC558-11A8-46D6-A583-54581C986845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocal.Tts", "Vocal.Tts\Vocal.Tts.csproj", "{BC6D3F06-2BC4-4CE9-9E64-E975010BCD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BB39A2-1755-4EDF-AE4C-DB4A5F21C6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BB39A2-1755-4EDF-AE4C-DB4A5F21C6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BB39A2-1755-4EDF-AE4C-DB4A5F21C6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BB39A2-1755-4EDF-AE4C-DB4A5F21C6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ABC558-11A8-46D6-A583-54581C986845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ABC558-11A8-46D6-A583-54581C986845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ABC558-11A8-46D6-A583-54581C986845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ABC558-11A8-46D6-A583-54581C986845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6D3F06-2BC4-4CE9-9E64-E975010BCD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6D3F06-2BC4-4CE9-9E64-E975010BCD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6D3F06-2BC4-4CE9-9E64-E975010BCD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6D3F06-2BC4-4CE9-9E64-E975010BCD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

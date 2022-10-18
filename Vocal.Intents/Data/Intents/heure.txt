@@ -1,0 +1,12 @@
+1	Donne-moi l'heure
+1	Quel heure est-il
+1	Peux-tu me dire l'heure
+1	pouvez vous me dire l'heure
+1	est-il possible de me donner l'heure
+1	quelle heure est-il
+1	indique moi l'heure
+1	indiquez moi l'heure
+0	y a t il des bouchons
+0	donne moi la définition de zinzolin
+0	augmente la température de la pièce
+0	raconte moi une blague
